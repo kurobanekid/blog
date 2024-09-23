@@ -20,7 +20,7 @@ highlight_code = true
 
 [languages.zh]
 weight = 2
-title = "if-think"
+title = "thinkmore - 技术分享"
 languageName = "Chinese"
 languageCode = "cn"
 
