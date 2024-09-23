@@ -2,8 +2,6 @@
 title = "并发"
 +++
 
-## 并发
-
 > [[并发]]是一种同时处理很多事情的能力，并行是一种同时执行很多事情的手段
 > 
 > `Concurrency` is about **dealing with** lots of things at once. `Parallelism` is about **doing** lots of things at once.
