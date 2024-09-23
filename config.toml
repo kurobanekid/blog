@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://ifthk.com"
+base_url = "https://www.thinkmore.fun"
 
 # The default language; used in feeds.
 default_language = "zh"
@@ -31,7 +31,7 @@ toc = true
 header_nav = [
   { url = "/", name_en = "/home/", name_zh = "/home/" },
   { url = "/about", name_en = "/about/", name_zh = "/about/" },
-  { url = "/journal", name_en = "/journal/", name_zh = "/journal/" },
+  # { url = "/journal", name_en = "/journal/", name_zh = "/journal/" },
   { url = "/blog", name_en = "/blog/", name_zh = "/blog/" }
 ]
 
